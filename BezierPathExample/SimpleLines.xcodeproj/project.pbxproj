@@ -199,13 +199,16 @@
 				TargetAttributes = {
 					8FB5BB07217237DD00F8E572 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
 					};
 					8FB5BB1B2172380B00F8E572 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 8FB5BB07217237DD00F8E572;
 					};
 					8FB5BB262172380B00F8E572 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 8FB5BB07217237DD00F8E572;
 					};
 				};
@@ -447,7 +450,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLines;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -465,7 +468,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLines;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -485,7 +488,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLinesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleLines.app/SimpleLines";
 			};
@@ -506,7 +509,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLinesTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleLines.app/SimpleLines";
 			};
@@ -526,7 +529,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLinesUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = SimpleLines;
 			};
@@ -546,7 +549,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Santiago.SimpleLinesUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = SimpleLines;
 			};
