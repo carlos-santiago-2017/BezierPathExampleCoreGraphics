@@ -1,7 +1,7 @@
 # BezierPathExampleCoreGraphics
 BezierPathExampleCoreGraphics
 
-```
+``` swift
 class SquareView: UIView {
     override func draw(_ rect: CGRect) {
        let aPath = UIBezierPath()
